@@ -1,10 +1,10 @@
 # Local environments
-"[localhost]":
+"localhost":
   stage: local
   rest: http://localhost:8080/gmp/v1/
 
 # Develop environments
-"[deheremap7362]":
+"deheremap7362":
   stage: develop
   rest: http://deheremap7362:8080/gmp/v1/
 "[gmp.dev.he.k8s.emea.adsint.biz]":
