@@ -7,7 +7,7 @@
 "deheremap7362":
   stage: develop
   rest: http://deheremap7362:8080/gmp/v1/
-"gmp.dev.he.k8s.emea.adsint.biz":
+'[gmp.dev.he.k8s.emea.adsint.biz]':
   stage: develop
   rest: http://gmp-ms.dev.he.k8s.emea.adsint.biz:8080/gmp/v1/
 
